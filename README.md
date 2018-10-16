@@ -1,6 +1,6 @@
 # MULe Final Project
 
-### MP3 metadata editor
+## MP3 metadata editor
 
 Created by Guillermo Montes Martos and Norma Schulze Giménez in 2018 for MULe subject in FIT of Brno University of Technology.
 
@@ -37,8 +37,6 @@ In this context, *ID3* is the metadata container most often used in conjunction 
 Thus, he suggested the possibility of including metadata at the end of each MP3 file. Finally, this idea was implemented with great success among users, with the first version of ID3 being born.
 
 Subsequently, Michael Mutschler, creator of MP3ext, suggested version 1.1 of ID3. Despite its success, there were complaints about some technical limitations of the format of the tags. Therefore, version 2 of this informal standard was developed.
-
-#### The format
 
 #### ID3 Version
 
@@ -94,23 +92,23 @@ We decide to merge the GUI and the logical part of the system, having knowledge 
 First of all, let’s describe the main functions of the application:
 
 - Open and **display MP3 Metadata**.
-    o FileName
-    o Track
-    o Artist
-    o Title
-    o Album
-    o Year
-    o Genre
-    o Comments
-    o Composer
-    o Publisher
-    o Original Artist
-    o Album Artist
-    o Copyright
-    o URL
-    o Encoder
-    o Bitrate
-    o Sample rate
+    - FileName
+    - Track
+    - Artist
+    - Title
+    - Album
+    - Year
+    - Genre
+    - Comments
+    - Composer
+    - Publisher
+    - Original Artist
+    - Album Artist
+    - Copyright
+    - URL
+    - Encoder
+    - Bitrate
+    - Sample rate
 - **Edit metadata** and **save** MP3 files.
 - Display, modify and export *album cover*. JPEG and PNG only compatible.
 
